@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP G5NB-1A-E-DC5
+D General Purpose Relays SPST-NO Flux-Tight 5VDC High-Capacity
+K
+F https://omronfs.omron.com/en_US/ecb/products/pdf/en-g5nb.pdf
+$ENDCMP
+#
+#End Doc Library

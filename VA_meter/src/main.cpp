@@ -12,6 +12,13 @@
 #include <Wire.h>
 #endif
 
+//TODO
+// just realized that you can implement protection of the adc
+// basically if you sense that the input is higher than the allowed range you automatically turn off the input
+// also when you select a range, lets say 1000uA, you can at fist do a measurement of the input voltage and run a quick ohms law calculation to make sure that you won't blow the adc input up
+
+
+
 // uncomment if you want the values to be printed to Serial as well
 #define printToSerial
 
